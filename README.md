@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LL-LivingLegend
+- 👋 Hi, I’m @LL-Zephyr
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning c and python
 - 💞️ I’m looking to collaborate on ...
